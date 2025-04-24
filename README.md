@@ -1,6 +1,6 @@
 # 📚 Mini Projet de Modélisation : Gestion d'une Bibliothèque
 
-Ce projet est une application Java basée sur Swing qui permet de gérer une bibliothèque avec des utilisateurs (admin, lecteurs) et des livres. Il est développé dans le cadre d’un mini-projet du module **Modélisation**.
+Ce projet est une application Java basée sur Swing qui permet de gérer une bibliothèque avec des utilisateurs (admin, lecteurs) et des livres. Il est développé dans le cadre d’un mini-projet du module **Modélisation et Architectures logicielles**.
 
 ##  UML
 
