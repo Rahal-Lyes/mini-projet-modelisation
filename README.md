@@ -4,7 +4,7 @@ Ce projet est une application Java basée sur Swing qui permet de gérer une bib
 
 ##  UML
 
-![UML Diagram of Library Classes](../diagramm_de_class.jpg)
+![UML Diagram of Library Classes](02.png)
 
 
 
