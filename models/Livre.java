@@ -15,7 +15,7 @@ public class Livre {
     // Getters and Setters
     public String getIsbn() { return isbn; }
     public String getTitre() { return title; }
-    public String getAuthor() { return author; }
+    public String getAuteur() { return author; }
     public boolean isAvailable() { return isAvailable; }
     public void setAvailable(boolean available) { isAvailable = available; }
 
